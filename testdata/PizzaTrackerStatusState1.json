@@ -1,0 +1,12 @@
+{
+  "orderStage": 3,
+  "orderFinished": true,
+  "displayTracker": true,
+  "isDelivery": true,
+  "step1Css": "is-step-in-progress",
+  "step2Css": "",
+  "step3Css": "",
+  "step4Css": "",
+  "step5Css": "",
+  "pathClass": "path-5"
+}

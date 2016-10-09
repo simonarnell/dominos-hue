@@ -1,0 +1,11 @@
+{
+  "name": "dominos-hue",
+  "version": "0.0.1",
+  "author": "Simon Arnell",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "*",
+    "https": "*",
+    "node-hue-api": "*"
+  }
+}
